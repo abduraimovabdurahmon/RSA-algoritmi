@@ -10,3 +10,4 @@
     node index.js
 ```
 
+(shuncha yozgan kodimga universitetdagi domlam past baho qo'ygandi 😅)
